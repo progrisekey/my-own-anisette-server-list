@@ -1,6 +1,14 @@
 {
     "servers": [
         {
+      "name": "server-by-yee",
+      "address": "https://altserverbyyee.onrender.com"
+    },
+     {
+      "name": "spare-server-by-yee",
+      "address": "https://spare-anisette-server-by-yee.onrender.com"
+    },
+        {
             "name": "SideStore",
             "address": "https://ani.sidestore.io"
         },
